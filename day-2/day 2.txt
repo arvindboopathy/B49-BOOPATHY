@@ -1,0 +1,21 @@
+blog about window object and document object :-
+
+
+window object :
+
+ >The window object represents a window/tab containing a DOM document.
+
+ >Window object has properties like browser history, location and the device’s screen etc.
+
+>The window object represents a window/tab containing a DOM document where as document object is property of window object that points to the DOM document loaded in that window.
+
+
+Document object:
+  
+>The document object is the property of window object that points to the DOM document loaded in that window.
+
+>The document object represents the whole html document as a tree of Objects(HTML, HEAD, BODY, and other HTML tags).
+
+>It is the root element that represents the html document.
+
+>Each HTML document that gets loaded into a window becomes a document object. 
