@@ -1,0 +1,55 @@
+let myResume={
+    "basics": {
+      "name": "Boopathy b",
+      "email": "arvindboopathy1516@gamil.com",
+      "phone": 8248810753,
+      "degree": "B.E",
+      "location": {
+        "address": "19/8a kanar thiru neela kandar street",
+        "postalCode": 632503,
+        "city": "Ranipet",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      
+      
+    },
+    "work": [
+      {
+        "company": "caparo indian pvt",
+        "position": "quality assurence",
+        "startDate": "2017-06-16",
+        "endDate": "Till now",
+        "summary": "i am Handling various task and gaining lots of experience",
+      },
+    ],
+    "education": [
+      {
+        "institution": "S.B.C engg collage",
+        "department": "Mechanicl",
+        "studyType": "fulltime",
+        "batch start year": 2012,
+        "batch end year": 2017,
+        "gpa": 6.5,
+      }
+    ],
+    "skills": [
+      {
+        "name": "python,javascript",
+        "level": "beginer",
+    
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Reading books,",
+      }
+    ]
+  }
+  console.log(myResume);
+  
